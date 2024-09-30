@@ -1,12 +1,11 @@
 <div align="center">
 
-# IMPORTNAT 
-DESCARGAR LAS DEPENDECIASDE NODE CON 
+# IMPORTANTE 
+DESCARGAR LAS DEPENDENCIAS DE  NODE CON... 
 ```sh
 npm install --legacy-peer-deps
 ```
-npm install 
-O
+ó
 ```sh
 npm install --froce
 ```
