@@ -1,3 +1,17 @@
+<div align="center">
+
+# IMPORTNAT 
+DESCARGAR LAS DEPENDECIASDE NODE CON 
+```sh
+npm install --legacy-peer-deps
+```
+npm install 
+O
+```sh
+npm install --froce
+```
+</div>
+
 # vue
 
 This template should help get you started developing with Vue 3 in Vite.
